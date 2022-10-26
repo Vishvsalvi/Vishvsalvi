@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/B0CIZw4igC9-RWG6Rf4_Ivi9OtcCykd7VU9JWHzb5hU/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly9yaXNo/YXZhbmFuZC5naXRo/dWIuaW8vc3RhdGlj/L2ltYWdlcy9ncmVl/dGluZ3MuZ2lm.gif)
+
 <h1 align="center">Hi 👋, I'm Vishv Salvi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
