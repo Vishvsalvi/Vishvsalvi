@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/salvivishv" target="blank"><img src="https://img.shields.io/twitter/follow/salvivishv?logo=twitter&style=for-the-badge" alt="salvivishv" /></a> </p>
 
-- 🔭 I’m currently working on **a Coaching classes website**
+- 🔭 I’m currently learning **Kubernetes**
 
 - 🌱 I’m currently learning **Java**
 
