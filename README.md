@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vishv Salvi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 <p align="left"> <a href="https://twitter.com/salvivishv" target="blank"><img src="https://img.shields.io/twitter/follow/salvivishv?logo=twitter&style=for-the-badge" alt="salvivishv" /></a> </p>
