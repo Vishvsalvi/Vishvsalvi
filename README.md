@@ -44,11 +44,3 @@ Full Stack Web Developer
 <a href="http://www.github.com/vishvsalvi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vishvsalvi&bg_color=0f172a&color=3382ed&line=22c55e&point=3382ed&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/vishvsalvi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvsalvi&langs_count=10&title_color=22c55e&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/vishvsalvi/React-hackathon-organizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishvsalvi&repo=React-hackathon-organizer&title_color=22c55e&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/vishvsalvi/Flipkart_Clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishvsalvi&repo=Flipkart_Clone&title_color=22c55e&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/vishvsalvi/Real-Estate-Web" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishvsalvi&repo=Real-Estate-Web&title_color=22c55e&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/vishvsalvi/Mongo_API" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishvsalvi&repo=Mongo_API&title_color=22c55e&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
