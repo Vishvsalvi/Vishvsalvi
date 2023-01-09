@@ -37,10 +37,8 @@ Full Stack Web Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vishvsalvi"><img src="https://github-readme-stats.vercel.app/api?username=vishvsalvi&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="vishvsalvi's GitHub stats" /></a>
+
 
 <a href="http://www.github.com/vishvsalvi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishvsalvi&stroke=3382ed&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=3382ed&currStreakLabel=22c55e&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
 <a href="http://www.github.com/vishvsalvi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vishvsalvi&bg_color=0f172a&color=3382ed&line=22c55e&point=3382ed&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/vishvsalvi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvsalvi&langs_count=10&title_color=22c55e&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
