@@ -6,8 +6,7 @@ Full Stack Web Developer
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [vishvsalvi10@gmail.com](mailto:vishvsalvi10@gmail.com)
-* 🧠  I'm learning Machine Learning and Kubernetes
-* 🤝  I'm open to collaborating on Kubernetes and other open source projects
+* 🤝  I'm open to collaborating on Backend and other open source projects.
 
 ### Skills
 
